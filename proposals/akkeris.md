@@ -8,7 +8,7 @@ and independent (but interoperational) projects:
 * Log Shuttle - A system that streams kubernetes pod logs (for one or more deployments) from fluentd, build logs from build shuttle, system events (e.g., crashes) and OSB logs to an endpoint (syslog, https, tls+syslog) that can be added and removed dynamically via an API.
 * OSB Brokers - Open service brokers for AWS and GCloud Postgres, MySQL, MongoDB, Redis and Memcached instances.
 * Business Management - Handles compliance (adding and removing secrets stored in third-party vault systems to deployments, protection against deletion of production resources; not authentication, identity or authorization), status checks, audits, and invoices (attribution and cost reports/analysis).
-* Application Lifecycle Management - Pipelining (pushing a QA image to one or more downstream production deployments), invoking tests (TaaS or testing as a service), webhooks, environment variable changes, resource provisioning, preview applications (e.g., apps created based on pull requests to a source repo), 
+* Application Lifecycle Management - Pipelining (pushing a QA image to one or more downstream production deployments), invoking tests (TaaS or testing as a service), webhooks, environment variable changes, app creation/deletion, resource provisioning, preview applications (e.g., apps created based on pull requests to a source repo), and canary apps.
 
 In addition, a CLI and UI are provided to perform all of the above.
 
