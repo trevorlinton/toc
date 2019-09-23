@@ -445,7 +445,7 @@ Two existing medium to small corporate users, one corporate sponsor and a couple
 
 ## Who is currently known to be using this?
 
-O.C. Tanner (who currently funding maintenance on it), uses it in production for 1,000 microservices deployed in the separate countries. In additional Big Squid a analytics start up. Collectively the user base is over 300 engineers.
+O.C. Tanner (who is currently funding maintenance on it), uses it in production for 1,000 microservices deployed in the separate countries. In additional Big Squid a analytics start up. Collectively the user base is over 300 engineers.
 
 ## Project logo
 
