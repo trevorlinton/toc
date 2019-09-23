@@ -28,7 +28,6 @@ philosophy of app development that Akkeris mandates. [Best Practices and Guildli
 * Cloud Foundary offers similar functionality, but its Business Management layer is less robust (attribution and invoicing in addition to compliance does not appear to be available) and does not appear to be aligned with the CNCF (from a technical standpoint it supports far less existing CNCF components).
 * Heroku (while not open source, but a SaaS platform) offers similar service but is not open source, nor does it have the same compliance, and sites and route configuration capability, in addition an obvious vendor lock-in.
 * Flux does seem to potentially compete as it performs various CI/CD tasks that overlap with some aspects of the Build Shuttle. However the two could easily co-exist.
-* 
 
 ## Sponsor from TOC
 
