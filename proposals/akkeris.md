@@ -404,7 +404,7 @@ https://github.com/akkeris (all projects are licensed under the Apache 2)
 * (required) Istio/Envoy and/or BigIP F5 for Gateway Management
 * (required) Kubernetes for Runtime
 * (required) Cert Manager
-* (optional) Harbor, Quay or Docker Registry for storing runtime images
+* (required) Harbor, Quay or Docker Registry for storing runtime images
 * (optional) Vault (for secret management)
 * (optional) Github/Git for SCM
 
