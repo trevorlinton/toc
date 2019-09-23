@@ -10,7 +10,7 @@ and independent (but interoperational) projects:
 * Business Management - Handles compliance (adding and removing secrets stored in third-party vault systems to deployments, protection against deletion of production resources; not authentication, identity or authorization), status checks, audits, and invoices (attribution and cost reports/analysis).
 * Application Lifecycle Management - Pipelining (pushing a QA image to one or more downstream production deployments), invoking tests (TaaS or testing as a service), webhooks, environment variable changes, app creation/deletion, resource provisioning, preview applications (e.g., apps created based on pull requests to a source repo), and canary apps.
 
-In addition, a CLI and UI are provided to perform all of the above.
+In addition, a CLI and UI are provided to interafce with all of the above (however a direct declarative or imperative API is optionally available).
 
 The project was initially created in August of 2016 and has grown from in use at O.C. Tanner (the main contributor) to being used in production by other companies.
 
